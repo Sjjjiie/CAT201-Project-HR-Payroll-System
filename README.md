@@ -11,6 +11,7 @@ First way:
 1) Click into the exe folder 
 2) Download the Payroll_System.exe
 3) Run the exe file
+   
 Second way:
 1) Clone the respiratory to your local machine by using git clone command. 
 2) Change your working directory to the cloned respiratory. 
