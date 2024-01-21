@@ -13,6 +13,9 @@ First way:
 3) Run the exe file
    
 Second way:
-1) Clone the respiratory to your local machine by using git clone command. 
-2) Change your working directory to the cloned respiratory. 
-3) Import the project into Netbeans, and run the project.
+1. Use git clone command to duplicate the repository to your local machine.
+2. Navigate to the cloned repository to set it as your current working directory.
+3. Launch an Integrated Development Environment (IDE), preferably NetBeans, and open the project.
+4. The project employs an SQLite database.
+5. Navigate to Payroll System >> src >> payroll >> system >> db.
+6. Modify line 19 to update the connection path to reflect the local path on your machine for the database.
