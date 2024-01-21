@@ -13,6 +13,8 @@
 4. The project employs an SQLite database.
 5. Navigate to src >> payroll >> system >> db.
 6. Modify line 19 in db to update the connection path to reflect the local path on your machine for the database.
-7. Log in method: /n
-   👤username: admin1 /n
+7. Log in method:
+
+   👤username: admin1 
+   
    🔐password: 123456
