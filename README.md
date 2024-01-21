@@ -12,4 +12,4 @@
 3. Launch an Integrated Development Environment (IDE), preferably NetBeans, and open the project.
 4. The project employs an SQLite database.
 5. Navigate to src >> payroll >> system >> db.
-6. Modify line 19 to update the connection path to reflect the local path on your machine for the database.
+6. Modify line 19 in db to update the connection path to reflect the local path on your machine for the database.
