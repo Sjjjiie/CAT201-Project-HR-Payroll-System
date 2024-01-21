@@ -891,7 +891,7 @@ public class EmployeeManagement extends javax.swing.JFrame {
             txt_position.setText(add7);
 
             String add8 =rs.getString("employee_department");
-            txt_position.setText(add8);
+            txt_department.setText(add8);
 
             String add9 =rs.getString("employee_basic_salary");
             txt_basicSalary.setText(add9);
