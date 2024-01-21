@@ -1,6 +1,6 @@
 # CAT201-Project-HR-Payroll-System
 
-### Team Member (Group 17)
+### Team Member--Group 17
 1. Choo Sin Jie (164517)
 2. Cheah Jia Ning (164328)
 3. Chiang Ho Lei (163715)
